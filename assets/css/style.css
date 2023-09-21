@@ -14,7 +14,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*this is the header styling*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*this is the font size*/
 .hero {
     height: 800px;
     width: 100%;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*search engine details*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +142,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*online reputation management details*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -151,7 +151,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*social media marketing details*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*footer styling*/
 .footer {
     padding: 30px;
     clear: both;
